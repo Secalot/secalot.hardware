@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri "$(KIPRJMOD)\\MK82FN256VDC15\\footprints.pretty")(options "")(descr ""))
+  (lib (name p1_internal)(type KiCad)(uri "$(KIPRJMOD)\\internal_components\\p1_internal.pretty")(options "")(descr ""))
+)
